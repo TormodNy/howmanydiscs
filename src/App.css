@@ -23,13 +23,17 @@ a {
   border-radius: 2px;
   outline: none;
   font-size: calc(10px + 2vmin);
-  width: 200px;
+  width: 180px;
   background-color: #44A5C5;
   color: #EEF5DB;
 }
 
 #dollarSign {
   font-size: calc(15px + 2vmin);
+}
+
+#result {
+  height: 50px;
 }
 
 /* Chrome, Safari, Edge, Opera */
